@@ -1,0 +1,45 @@
+.Img-Foto{
+    float: right;
+    margin: 0 400px 10px 10px;
+}
+
+.info{
+    width: 300px;
+    margin: 0px;
+    color: #fff;
+}
+
+.data{
+    width: 200px;
+    margin: 50px 0 0 0;
+}
+
+.learn{
+    margin: 100px 0 0 0;
+}
+.info-data{
+   float: right;
+
+}
+.left, .right{
+    color: #fff;
+}   
+
+body {
+    background: #999 url(https://cdn.kwork.ru/pics/t3/10/834847-1549033510.jpg);
+    background-attachment: fixed;
+    background-size: 100%;
+}
+
+.text{
+    color: #fff;
+}
+
+.line{
+    text-decoration: underline;
+    color: #fff;
+    font-size: 20px;
+}
+.CV{
+    color: #fff;
+}
